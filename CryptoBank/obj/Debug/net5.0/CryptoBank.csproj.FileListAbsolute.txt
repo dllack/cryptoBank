@@ -1,0 +1,16 @@
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\CryptoBank.exe
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\CryptoBank.deps.json
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\CryptoBank.runtimeconfig.json
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\CryptoBank.runtimeconfig.dev.json
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\CryptoBank.dll
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\ref\CryptoBank.dll
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\bin\Debug\net5.0\CryptoBank.pdb
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.csprojAssemblyReference.cache
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.AssemblyInfoInputs.cache
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.AssemblyInfo.cs
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.csproj.CoreCompileInputs.cache
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.dll
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\ref\CryptoBank.dll
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.pdb
+C:\Users\diego.p.campos\Desktop\estudos\csharp\CryptoBank\CryptoBank\obj\Debug\net5.0\CryptoBank.genruntimeconfig.cache
